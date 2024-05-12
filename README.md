@@ -1,4 +1,12 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Web-Bug-Bounty
+- 🌱 I’m currently learning Linux & Javascript
+  
+https://moongrids.com
+
+Link To [Instagram](https://www.instagram.com/it.__.hq?igsh=MWdwdmVkZ28wNnV0bQ==)
+
+Link To [Telegram](https://t.me/Techcor3)
 
 <!--
 **arssssshaaaaaa/arssssshaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
